@@ -1,0 +1,1550 @@
+2016-6-4 10:0:58:608 Steamclient.dll Loaded
+2016-6-4 10:0:58:610 VAC2.dll Loaded!
+2016-6-4 10:0:58:611 VAC2.dll --> Startup3
+2016-6-4 10:0:58:612 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-4 10:0:58:612 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-4 10:0:58:612 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-4 10:0:58:612 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-4 10:0:58:613 ISteamClient012::CreateSteamPipe
+2016-6-4 10:0:58:613 Steam_CreateSteamPipe
+2016-6-4 10:0:58:613 ISteamClient012::ConnectToGlobalUser
+2016-6-4 10:0:58:613 Steam_ConnectToGlobalUser
+2016-6-4 10:0:58:614 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-4 10:0:58:614 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-4 10:0:58:614 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 10:0:58:614 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-4 10:0:58:614 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-4 10:0:58:614 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-4 10:0:58:614 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-4 10:0:58:615 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-4 10:0:58:615 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-4 10:0:58:615 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-4 10:0:58:615 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-4 10:0:58:615 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-4 10:0:58:615 ISteamUtils005::GetAppID
+2016-6-4 10:0:58:811 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-4 10:0:58:811 ISteamUtils007::GetAppID
+2016-6-4 10:0:58:817 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 10:0:58:817 ISteamUtils005::GetAppID
+2016-6-4 10:0:58:837 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-4 10:0:59:96 ISteamFriends013::GetClanCount
+2016-6-4 10:0:59:96 ISteamFriends013::GetClanByIndex
+2016-6-4 10:1:22:283 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:1:22:284 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-4 10:1:22:363 ISteamUtils005::GetAppID
+2016-6-4 10:1:22:365 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 10:1:22:365 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 10:2:33:670 ISteamUser016::CancelAuthTicket
+2016-6-4 10:2:33:719 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:2:33:734 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-4 10:2:33:740 ISteamUtils005::GetAppID
+2016-6-4 10:2:33:805 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 10:2:33:805 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 10:2:34:983 ISteamUser016::AdvertiseGame
+2016-6-4 10:15:58:544 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:15:58:582 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-4 10:15:58:584 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 10:15:58:584 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 10:18:3:45 ISteamUser016::CancelAuthTicket
+2016-6-4 10:18:3:45 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:18:3:46 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-4 10:18:3:90 ISteamUtils005::GetAppID
+2016-6-4 10:18:3:99 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 10:18:3:100 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 10:20:27:446 ISteamUser016::CancelAuthTicket
+2016-6-4 10:20:27:447 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:20:27:448 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-4 10:20:27:453 ISteamUtils005::GetAppID
+2016-6-4 10:20:27:462 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 10:20:27:463 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 10:22:0:558 ISteamUser016::CancelAuthTicket
+2016-6-4 10:22:0:558 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:22:0:559 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-4 10:22:0:563 ISteamUtils005::GetAppID
+2016-6-4 10:22:0:571 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 10:22:0:571 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 10:22:46:774 ISteamUser016::CancelAuthTicket
+2016-6-4 10:22:46:775 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:22:46:776 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-4 10:22:46:824 ISteamUtils005::GetAppID
+2016-6-4 10:22:46:831 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 10:22:46:832 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 10:22:59:766 ISteamUser016::CancelAuthTicket
+2016-6-4 10:22:59:767 ISteamUser016::CancelAuthTicket
+2016-6-4 10:22:59:767 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:22:59:767 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-4 10:23:41:791 ISteamClient012::ReleaseUser
+2016-6-4 10:23:41:791 Steam_ReleaseUser
+2016-6-4 10:23:41:791 ISteamClient012::ReleaseSteamPipe
+2016-6-4 10:23:41:791 Steam_BReleaseSteamPipe
+2016-6-4 10:23:41:792 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-4 10:23:41:792 Steamclient.dll Shutdown
+2016-6-4 10:35:1:470 Steamclient.dll Loaded
+2016-6-4 10:35:1:471 VAC2.dll Loaded!
+2016-6-4 10:35:1:471 VAC2.dll --> Startup3
+2016-6-4 10:35:1:472 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-4 10:35:1:472 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-4 10:35:1:472 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-4 10:35:1:472 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-4 10:35:1:473 ISteamClient012::CreateSteamPipe
+2016-6-4 10:35:1:473 Steam_CreateSteamPipe
+2016-6-4 10:35:1:473 ISteamClient012::ConnectToGlobalUser
+2016-6-4 10:35:1:473 Steam_ConnectToGlobalUser
+2016-6-4 10:35:1:473 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-4 10:35:1:473 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-4 10:35:1:473 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 10:35:1:474 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-4 10:35:1:474 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-4 10:35:1:474 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-4 10:35:1:474 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-4 10:35:1:474 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-4 10:35:1:475 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-4 10:35:1:475 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-4 10:35:1:475 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-4 10:35:1:475 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-4 10:35:1:475 ISteamUtils005::GetAppID
+2016-6-4 10:35:1:718 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-4 10:35:1:718 ISteamUtils007::GetAppID
+2016-6-4 10:35:1:723 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 10:35:1:723 ISteamUtils005::GetAppID
+2016-6-4 10:35:1:743 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-4 10:35:1:830 ISteamFriends013::GetClanCount
+2016-6-4 10:35:1:830 ISteamFriends013::GetClanByIndex
+2016-6-4 10:35:14:744 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:35:14:745 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-4 10:35:14:826 ISteamUtils005::GetAppID
+2016-6-4 10:35:14:905 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 10:35:14:905 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 10:35:38:303 ISteamUser016::CancelAuthTicket
+2016-6-4 10:35:38:304 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:35:38:305 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-4 10:36:20:319 ISteamClient012::ReleaseUser
+2016-6-4 10:36:20:319 Steam_ReleaseUser
+2016-6-4 10:36:20:319 ISteamClient012::ReleaseSteamPipe
+2016-6-4 10:36:20:319 Steam_BReleaseSteamPipe
+2016-6-4 10:36:20:320 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-4 10:36:20:320 Steamclient.dll Shutdown
+2016-6-4 10:37:28:739 Steamclient.dll Loaded
+2016-6-4 10:37:28:742 VAC2.dll Loaded!
+2016-6-4 10:37:28:742 VAC2.dll --> Startup3
+2016-6-4 10:37:28:743 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-4 10:37:28:743 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-4 10:37:28:743 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-4 10:37:28:743 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-4 10:37:28:743 ISteamClient012::CreateSteamPipe
+2016-6-4 10:37:28:744 Steam_CreateSteamPipe
+2016-6-4 10:37:28:744 ISteamClient012::ConnectToGlobalUser
+2016-6-4 10:37:28:744 Steam_ConnectToGlobalUser
+2016-6-4 10:37:28:744 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-4 10:37:28:745 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-4 10:37:28:745 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 10:37:28:745 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-4 10:37:28:745 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-4 10:37:28:745 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-4 10:37:28:745 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-4 10:37:28:746 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-4 10:37:28:746 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-4 10:37:28:746 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-4 10:37:28:746 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-4 10:37:28:746 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-4 10:37:28:746 ISteamUtils005::GetAppID
+2016-6-4 10:37:28:994 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-4 10:37:28:994 ISteamUtils007::GetAppID
+2016-6-4 10:37:29:0 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 10:37:29:0 ISteamUtils005::GetAppID
+2016-6-4 10:37:29:20 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-4 10:37:29:100 ISteamFriends013::GetClanCount
+2016-6-4 10:37:29:100 ISteamFriends013::GetClanByIndex
+2016-6-4 10:37:35:727 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:37:35:728 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 10:37:35:804 ISteamUtils005::GetAppID
+2016-6-4 10:37:35:868 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 10:37:35:869 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 10:38:9:312 ISteamUser016::CancelAuthTicket
+2016-6-4 10:38:9:312 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:38:9:313 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 10:38:51:328 ISteamClient012::ReleaseUser
+2016-6-4 10:38:51:328 Steam_ReleaseUser
+2016-6-4 10:38:51:328 ISteamClient012::ReleaseSteamPipe
+2016-6-4 10:38:51:328 Steam_BReleaseSteamPipe
+2016-6-4 10:38:51:329 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-4 10:38:51:329 Steamclient.dll Shutdown
+2016-6-4 10:49:58:705 Steamclient.dll Loaded
+2016-6-4 10:49:58:706 VAC2.dll Loaded!
+2016-6-4 10:49:58:707 VAC2.dll --> Startup3
+2016-6-4 10:49:58:707 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-4 10:49:58:707 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-4 10:49:58:707 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-4 10:49:58:708 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-4 10:49:58:708 ISteamClient012::CreateSteamPipe
+2016-6-4 10:49:58:708 Steam_CreateSteamPipe
+2016-6-4 10:49:58:708 ISteamClient012::ConnectToGlobalUser
+2016-6-4 10:49:58:708 Steam_ConnectToGlobalUser
+2016-6-4 10:49:58:709 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-4 10:49:58:709 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-4 10:49:58:709 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 10:49:58:709 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-4 10:49:58:709 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-4 10:49:58:709 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-4 10:49:58:710 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-4 10:49:58:710 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-4 10:49:58:710 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-4 10:49:58:710 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-4 10:49:58:710 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-4 10:49:58:710 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-4 10:49:58:711 ISteamUtils005::GetAppID
+2016-6-4 10:49:58:848 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-4 10:49:58:848 ISteamUtils007::GetAppID
+2016-6-4 10:49:58:854 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 10:49:58:854 ISteamUtils005::GetAppID
+2016-6-4 10:49:58:874 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-4 10:49:58:948 ISteamFriends013::GetClanCount
+2016-6-4 10:49:58:948 ISteamFriends013::GetClanByIndex
+2016-6-4 10:50:5:195 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:50:5:196 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 10:50:5:271 ISteamUtils005::GetAppID
+2016-6-4 10:50:5:337 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 10:50:5:337 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 10:50:12:98 ISteamUser016::CancelAuthTicket
+2016-6-4 10:50:12:99 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:50:12:99 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 10:50:54:114 ISteamClient012::ReleaseUser
+2016-6-4 10:50:54:114 Steam_ReleaseUser
+2016-6-4 10:50:54:114 ISteamClient012::ReleaseSteamPipe
+2016-6-4 10:50:54:114 Steam_BReleaseSteamPipe
+2016-6-4 10:50:54:114 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-4 10:50:54:115 Steamclient.dll Shutdown
+2016-6-4 10:51:36:490 Steamclient.dll Loaded
+2016-6-4 10:51:36:491 VAC2.dll Loaded!
+2016-6-4 10:51:36:492 VAC2.dll --> Startup3
+2016-6-4 10:51:36:492 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-4 10:51:36:492 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-4 10:51:36:492 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-4 10:51:36:493 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-4 10:51:36:493 ISteamClient012::CreateSteamPipe
+2016-6-4 10:51:36:493 Steam_CreateSteamPipe
+2016-6-4 10:51:36:493 ISteamClient012::ConnectToGlobalUser
+2016-6-4 10:51:36:493 Steam_ConnectToGlobalUser
+2016-6-4 10:51:36:494 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-4 10:51:36:494 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-4 10:51:36:494 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 10:51:36:494 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-4 10:51:36:494 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-4 10:51:36:494 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-4 10:51:36:494 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-4 10:51:36:495 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-4 10:51:36:495 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-4 10:51:36:495 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-4 10:51:36:495 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-4 10:51:36:495 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-4 10:51:36:495 ISteamUtils005::GetAppID
+2016-6-4 10:51:36:634 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-4 10:51:36:634 ISteamUtils007::GetAppID
+2016-6-4 10:51:36:640 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 10:51:36:640 ISteamUtils005::GetAppID
+2016-6-4 10:51:36:660 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-4 10:51:36:733 ISteamFriends013::GetClanCount
+2016-6-4 10:51:36:733 ISteamFriends013::GetClanByIndex
+2016-6-4 10:51:44:231 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:51:44:232 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 10:51:44:306 ISteamUtils005::GetAppID
+2016-6-4 10:51:44:369 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 10:51:44:370 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 10:51:45:557 ISteamUser016::AdvertiseGame
+2016-6-4 10:52:7:256 ISteamUser016::CancelAuthTicket
+2016-6-4 10:52:7:257 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:52:7:258 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 10:58:57:546 Steamclient.dll Loaded
+2016-6-4 10:58:57:546 VAC2.dll Loaded!
+2016-6-4 10:58:57:547 VAC2.dll --> Startup3
+2016-6-4 10:58:57:547 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-4 10:58:57:547 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-4 10:58:57:548 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-4 10:58:57:548 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-4 10:58:57:548 ISteamClient012::CreateSteamPipe
+2016-6-4 10:58:57:548 Steam_CreateSteamPipe
+2016-6-4 10:58:57:548 ISteamClient012::ConnectToGlobalUser
+2016-6-4 10:58:57:548 Steam_ConnectToGlobalUser
+2016-6-4 10:58:57:549 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-4 10:58:57:549 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-4 10:58:57:549 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 10:58:57:549 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-4 10:58:57:549 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-4 10:58:57:549 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-4 10:58:57:550 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-4 10:58:57:550 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-4 10:58:57:550 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-4 10:58:57:550 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-4 10:58:57:550 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-4 10:58:57:550 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-4 10:58:57:550 ISteamUtils005::GetAppID
+2016-6-4 10:58:57:689 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-4 10:58:57:689 ISteamUtils007::GetAppID
+2016-6-4 10:58:57:694 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 10:58:57:694 ISteamUtils005::GetAppID
+2016-6-4 10:58:57:714 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-4 10:58:57:788 ISteamFriends013::GetClanCount
+2016-6-4 10:58:57:789 ISteamFriends013::GetClanByIndex
+2016-6-4 10:59:7:188 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 10:59:7:189 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 10:59:7:243 ISteamUtils005::GetAppID
+2016-6-4 10:59:7:308 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 10:59:7:309 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 11:2:48:544 ISteamUser016::CancelAuthTicket
+2016-6-4 11:2:48:545 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 11:2:48:545 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 11:2:48:589 ISteamUtils005::GetAppID
+2016-6-4 11:2:48:642 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 11:2:48:643 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 11:7:36:434 ISteamUser016::CancelAuthTicket
+2016-6-4 11:7:36:434 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 11:7:36:434 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 11:7:36:438 ISteamUtils005::GetAppID
+2016-6-4 11:7:36:498 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 11:7:36:499 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 11:7:58:140 ISteamUser016::CancelAuthTicket
+2016-6-4 11:7:58:140 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 11:7:58:141 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 11:7:58:144 ISteamUtils005::GetAppID
+2016-6-4 11:7:58:207 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 11:7:58:208 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 11:8:27:803 ISteamUser016::CancelAuthTicket
+2016-6-4 11:8:27:804 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 11:8:27:804 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 11:9:9:823 ISteamClient012::ReleaseUser
+2016-6-4 11:9:9:823 Steam_ReleaseUser
+2016-6-4 11:9:9:823 ISteamClient012::ReleaseSteamPipe
+2016-6-4 11:9:9:823 Steam_BReleaseSteamPipe
+2016-6-4 11:9:9:824 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-4 11:9:9:824 Steamclient.dll Shutdown
+2016-6-4 14:3:42:346 Steamclient.dll Loaded
+2016-6-4 14:3:42:346 VAC2.dll Loaded!
+2016-6-4 14:3:42:347 VAC2.dll --> Startup3
+2016-6-4 14:3:42:348 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-4 14:3:42:348 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-4 14:3:42:348 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-4 14:3:42:348 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-4 14:3:42:349 ISteamClient012::CreateSteamPipe
+2016-6-4 14:3:42:349 Steam_CreateSteamPipe
+2016-6-4 14:3:42:349 ISteamClient012::ConnectToGlobalUser
+2016-6-4 14:3:42:349 Steam_ConnectToGlobalUser
+2016-6-4 14:3:42:349 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-4 14:3:42:350 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-4 14:3:42:350 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 14:3:42:350 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-4 14:3:42:350 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-4 14:3:42:350 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-4 14:3:42:351 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-4 14:3:42:351 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-4 14:3:42:351 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-4 14:3:42:351 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-4 14:3:42:351 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-4 14:3:42:351 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-4 14:3:42:352 ISteamUtils005::GetAppID
+2016-6-4 14:3:42:492 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-4 14:3:42:493 ISteamUtils007::GetAppID
+2016-6-4 14:3:42:498 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 14:3:42:498 ISteamUtils005::GetAppID
+2016-6-4 14:3:42:518 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-4 14:3:42:600 ISteamFriends013::GetClanCount
+2016-6-4 14:3:42:601 ISteamFriends013::GetClanByIndex
+2016-6-4 14:3:45:362 ISteamUtils005::GetAppID
+2016-6-4 14:3:45:392 ISteamMatchmakingServers002::RequestHistoryServerList --> 252490 --> 3 --> gamedir --> rust
+2016-6-4 14:3:45:435 ISteamMatchmakingServers::GetServerDetails --> 1 --> 1
+2016-6-4 14:3:45:435 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-4 14:3:45:436 ISteamUtils007::GetAppID
+2016-6-4 14:3:45:436 ISteamUtils005::GetAppID
+2016-6-4 14:3:45:436 ISteamUtils005::GetAppID
+2016-6-4 14:3:45:437 ISteamMatchmakingServers002::RequestFriendsServerList --> 252490 --> 3 --> gamedir --> rust
+2016-6-4 14:3:45:437 ISteamMatchmakingServers::GetServerDetails --> 1 --> 1
+2016-6-4 14:3:45:437 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-4 14:3:45:437 ISteamUtils007::GetAppID
+2016-6-4 14:3:45:438 ISteamUtils005::GetAppID
+2016-6-4 14:3:45:438 ISteamUtils005::GetAppID
+2016-6-4 14:3:45:438 ISteamMatchmakingServers002::RequestInternetServerList --> 252490 --> 3 --> gamedir --> rust
+2016-6-4 14:3:45:438 ISteamMatchmakingServers::GetServerDetails --> 1 --> 1
+2016-6-4 14:3:45:439 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-4 14:3:45:439 ISteamUtils007::GetAppID
+2016-6-4 14:3:45:439 ISteamUtils005::GetAppID
+2016-6-4 14:3:52:437 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 14:3:52:438 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 14:3:52:512 ISteamUtils005::GetAppID
+2016-6-4 14:3:52:581 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 14:3:52:581 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 14:5:0:699 ISteamUser016::CancelAuthTicket
+2016-6-4 14:5:0:700 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 14:5:0:700 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 14:5:0:704 ISteamUtils005::GetAppID
+2016-6-4 14:5:0:765 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 14:5:0:766 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 14:5:2:39 ISteamUser016::AdvertiseGame
+2016-6-4 14:10:5:771 ISteamUser016::CancelAuthTicket
+2016-6-4 14:10:5:772 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 14:10:5:773 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 14:10:5:794 ISteamClient012::ReleaseUser
+2016-6-4 14:10:5:794 Steam_ReleaseUser
+2016-6-4 14:10:5:794 ISteamClient012::ReleaseSteamPipe
+2016-6-4 14:10:5:794 Steam_BReleaseSteamPipe
+2016-6-4 14:10:5:794 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-4 14:10:5:795 Steamclient.dll Shutdown
+2016-6-4 18:23:24:557 Steamclient.dll Loaded
+2016-6-4 18:23:24:559 VAC2.dll Loaded!
+2016-6-4 18:23:24:560 VAC2.dll --> Startup3
+2016-6-4 18:23:24:560 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-4 18:23:24:560 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-4 18:23:24:560 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-4 18:23:24:560 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-4 18:23:24:561 ISteamClient012::CreateSteamPipe
+2016-6-4 18:23:24:561 Steam_CreateSteamPipe
+2016-6-4 18:23:24:561 ISteamClient012::ConnectToGlobalUser
+2016-6-4 18:23:24:561 Steam_ConnectToGlobalUser
+2016-6-4 18:23:24:562 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-4 18:23:24:562 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-4 18:23:24:562 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 18:23:24:562 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-4 18:23:24:562 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-4 18:23:24:563 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-4 18:23:24:563 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-4 18:23:24:563 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-4 18:23:24:563 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-4 18:23:24:563 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-4 18:23:24:563 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-4 18:23:24:563 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-4 18:23:24:564 ISteamUtils005::GetAppID
+2016-6-4 18:23:24:702 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-4 18:23:24:702 ISteamUtils007::GetAppID
+2016-6-4 18:23:24:707 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 18:23:24:707 ISteamUtils005::GetAppID
+2016-6-4 18:23:24:727 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-4 18:23:24:796 ISteamFriends013::GetClanCount
+2016-6-4 18:23:24:796 ISteamFriends013::GetClanByIndex
+2016-6-4 18:23:31:539 ISteamClient012::ReleaseUser
+2016-6-4 18:23:31:540 Steam_ReleaseUser
+2016-6-4 18:23:31:540 ISteamClient012::ReleaseSteamPipe
+2016-6-4 18:23:31:540 Steam_BReleaseSteamPipe
+2016-6-4 18:23:31:540 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-4 18:23:31:540 Steamclient.dll Shutdown
+2016-6-4 18:26:36:362 Steamclient.dll Loaded
+2016-6-4 18:26:36:363 VAC2.dll Loaded!
+2016-6-4 18:26:36:364 VAC2.dll --> Startup3
+2016-6-4 18:26:36:365 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-4 18:26:36:365 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-4 18:26:36:365 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-4 18:26:36:365 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-4 18:26:36:366 ISteamClient012::CreateSteamPipe
+2016-6-4 18:26:36:366 Steam_CreateSteamPipe
+2016-6-4 18:26:36:367 ISteamClient012::ConnectToGlobalUser
+2016-6-4 18:26:36:367 Steam_ConnectToGlobalUser
+2016-6-4 18:26:36:367 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-4 18:26:36:367 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-4 18:26:36:367 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 18:26:36:367 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-4 18:26:36:368 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-4 18:26:36:368 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-4 18:26:36:368 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-4 18:26:36:368 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-4 18:26:36:368 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-4 18:26:36:368 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-4 18:26:36:369 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-4 18:26:36:369 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-4 18:26:36:369 ISteamUtils005::GetAppID
+2016-6-4 18:26:36:513 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-4 18:26:36:514 ISteamUtils007::GetAppID
+2016-6-4 18:26:36:519 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 18:26:36:519 ISteamUtils005::GetAppID
+2016-6-4 18:26:36:539 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-4 18:26:36:645 ISteamFriends013::GetClanCount
+2016-6-4 18:26:36:645 ISteamFriends013::GetClanByIndex
+2016-6-4 18:26:48:929 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 18:26:48:930 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 18:26:49:3 ISteamUtils005::GetAppID
+2016-6-4 18:26:49:65 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 18:26:49:66 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 18:28:12:697 ISteamUser016::CancelAuthTicket
+2016-6-4 18:28:12:697 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 18:28:12:697 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 18:28:12:730 ISteamUtils005::GetAppID
+2016-6-4 18:28:12:785 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 18:28:12:785 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 18:54:29:402 ISteamUser016::CancelAuthTicket
+2016-6-4 18:54:29:402 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 18:54:29:402 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 18:54:29:432 ISteamUtils005::GetAppID
+2016-6-4 18:54:29:494 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 18:54:29:494 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 18:59:41:925 ISteamUser016::CancelAuthTicket
+2016-6-4 18:59:41:925 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 18:59:41:925 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 18:59:41:954 ISteamUtils005::GetAppID
+2016-6-4 18:59:42:16 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 18:59:42:17 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 18:59:44:435 ISteamUser016::CancelAuthTicket
+2016-6-4 18:59:44:435 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 18:59:44:435 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 18:59:44:464 ISteamUtils005::GetAppID
+2016-6-4 18:59:44:534 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 18:59:44:534 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 18:59:46:272 ISteamUser016::CancelAuthTicket
+2016-6-4 18:59:46:273 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 18:59:46:273 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 18:59:46:302 ISteamUtils005::GetAppID
+2016-6-4 18:59:46:324 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 18:59:46:324 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 18:59:48:17 ISteamUser016::CancelAuthTicket
+2016-6-4 18:59:48:17 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 18:59:48:18 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 18:59:48:47 ISteamUtils005::GetAppID
+2016-6-4 18:59:48:54 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 18:59:48:54 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 19:6:9:625 ISteamUser016::CancelAuthTicket
+2016-6-4 19:6:9:625 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 19:6:9:626 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 19:6:9:655 ISteamUtils005::GetAppID
+2016-6-4 19:6:9:663 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 19:6:9:663 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 19:6:40:20 ISteamUser016::CancelAuthTicket
+2016-6-4 19:6:40:20 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 19:6:40:20 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 19:6:40:49 ISteamUtils005::GetAppID
+2016-6-4 19:6:40:57 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 19:6:40:58 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 19:10:34:927 ISteamUser016::CancelAuthTicket
+2016-6-4 19:10:34:927 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 19:10:34:928 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 19:10:34:957 ISteamUtils005::GetAppID
+2016-6-4 19:10:34:967 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 19:10:34:967 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 19:10:36:738 ISteamUser016::CancelAuthTicket
+2016-6-4 19:10:36:738 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 19:10:36:738 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 19:10:36:768 ISteamUtils005::GetAppID
+2016-6-4 19:10:36:778 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 19:10:36:778 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 19:10:38:349 ISteamUser016::CancelAuthTicket
+2016-6-4 19:10:38:349 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 19:10:38:349 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 19:10:38:378 ISteamUtils005::GetAppID
+2016-6-4 19:10:38:388 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 19:10:38:389 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 19:18:1:391 ISteamUser016::CancelAuthTicket
+2016-6-4 19:18:1:391 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 19:18:1:391 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 19:18:1:421 ISteamUtils005::GetAppID
+2016-6-4 19:18:1:432 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 19:18:1:432 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 19:20:29:325 ISteamUser016::CancelAuthTicket
+2016-6-4 19:20:29:325 ISteamClient012::ReleaseUser
+2016-6-4 19:20:29:325 Steam_ReleaseUser
+2016-6-4 19:20:29:325 ISteamClient012::ReleaseSteamPipe
+2016-6-4 19:20:29:325 Steam_BReleaseSteamPipe
+2016-6-4 19:20:29:325 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-4 19:20:29:326 Steamclient.dll Shutdown
+2016-6-4 21:11:13:330 Steamclient.dll Loaded
+2016-6-4 21:11:13:331 VAC2.dll Loaded!
+2016-6-4 21:11:13:331 VAC2.dll --> Startup3
+2016-6-4 21:11:13:332 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-4 21:11:13:332 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-4 21:11:13:332 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-4 21:11:13:332 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-4 21:11:13:333 ISteamClient012::CreateSteamPipe
+2016-6-4 21:11:13:333 Steam_CreateSteamPipe
+2016-6-4 21:11:13:333 ISteamClient012::ConnectToGlobalUser
+2016-6-4 21:11:13:333 Steam_ConnectToGlobalUser
+2016-6-4 21:11:13:334 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-4 21:11:13:334 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-4 21:11:13:334 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 21:11:13:334 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-4 21:11:13:334 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-4 21:11:13:334 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-4 21:11:13:335 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-4 21:11:13:335 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-4 21:11:13:335 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-4 21:11:13:335 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-4 21:11:13:335 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-4 21:11:13:335 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-4 21:11:13:336 ISteamUtils005::GetAppID
+2016-6-4 21:11:13:471 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-4 21:11:13:471 ISteamUtils007::GetAppID
+2016-6-4 21:11:13:476 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-4 21:11:13:476 ISteamUtils005::GetAppID
+2016-6-4 21:11:13:496 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-4 21:11:13:596 ISteamFriends013::GetClanCount
+2016-6-4 21:11:13:596 ISteamFriends013::GetClanByIndex
+2016-6-4 21:11:24:171 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 21:11:24:171 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 21:11:24:264 ISteamUtils005::GetAppID
+2016-6-4 21:11:24:326 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 21:11:24:326 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 21:16:10:881 ISteamUser016::CancelAuthTicket
+2016-6-4 21:16:10:881 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-4 21:16:10:881 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-4 21:16:10:911 ISteamUtils005::GetAppID
+2016-6-4 21:16:10:974 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-4 21:16:10:974 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-4 21:20:21:109 ISteamUser016::CancelAuthTicket
+2016-6-4 21:20:21:109 ISteamClient012::ReleaseUser
+2016-6-4 21:20:21:109 Steam_ReleaseUser
+2016-6-4 21:20:21:109 ISteamClient012::ReleaseSteamPipe
+2016-6-4 21:20:21:109 Steam_BReleaseSteamPipe
+2016-6-4 21:20:21:109 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-4 21:20:21:109 Steamclient.dll Shutdown
+2016-6-5 17:38:57:88 Steamclient.dll Loaded
+2016-6-5 17:38:57:164 VAC2.dll Loaded!
+2016-6-5 17:38:57:165 VAC2.dll --> Startup3
+2016-6-5 17:38:57:165 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-5 17:38:57:165 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-5 17:38:57:165 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-5 17:38:57:165 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-5 17:38:57:166 ISteamClient012::CreateSteamPipe
+2016-6-5 17:38:57:166 Steam_CreateSteamPipe
+2016-6-5 17:38:57:166 ISteamClient012::ConnectToGlobalUser
+2016-6-5 17:38:57:166 Steam_ConnectToGlobalUser
+2016-6-5 17:38:57:166 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-5 17:38:57:166 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-5 17:38:57:167 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-5 17:38:57:167 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-5 17:38:57:167 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-5 17:38:57:167 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-5 17:38:57:167 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-5 17:38:57:167 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-5 17:38:57:167 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-5 17:38:57:168 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-5 17:38:57:168 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-5 17:38:57:168 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-5 17:38:57:168 ISteamUtils005::GetAppID
+2016-6-5 17:38:57:536 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-5 17:38:57:536 ISteamUtils007::GetAppID
+2016-6-5 17:38:57:541 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-5 17:38:57:541 ISteamUtils005::GetAppID
+2016-6-5 17:38:57:561 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-5 17:38:57:823 ISteamFriends013::GetClanCount
+2016-6-5 17:38:57:823 ISteamFriends013::GetClanByIndex
+2016-6-5 17:39:4:353 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-5 17:39:4:353 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-5 17:39:4:606 ISteamUtils005::GetAppID
+2016-6-5 17:39:4:673 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-5 17:39:4:673 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-5 17:39:13:409 ISteamUser016::CancelAuthTicket
+2016-6-5 17:39:13:409 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-5 17:39:13:410 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-5 17:39:13:439 ISteamUtils005::GetAppID
+2016-6-5 17:39:13:498 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-5 17:39:13:499 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-5 17:39:14:491 ISteamUser016::CancelAuthTicket
+2016-6-5 17:39:14:491 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-5 17:39:14:492 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-5 17:39:14:521 ISteamUtils005::GetAppID
+2016-6-5 17:39:14:584 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-5 17:39:14:584 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-5 17:39:15:261 ISteamUser016::CancelAuthTicket
+2016-6-5 17:39:15:261 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-5 17:39:15:261 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-5 17:39:15:291 ISteamUtils005::GetAppID
+2016-6-5 17:39:15:314 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-5 17:39:15:314 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-5 17:39:29:855 ISteamUser016::CancelAuthTicket
+2016-6-5 17:39:29:856 ISteamClient012::ReleaseUser
+2016-6-5 17:39:29:856 Steam_ReleaseUser
+2016-6-5 17:39:29:856 ISteamClient012::ReleaseSteamPipe
+2016-6-5 17:39:29:856 Steam_BReleaseSteamPipe
+2016-6-5 17:39:29:856 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-5 17:39:29:856 Steamclient.dll Shutdown
+2016-6-5 17:44:3:490 Steamclient.dll Loaded
+2016-6-5 17:44:3:491 VAC2.dll Loaded!
+2016-6-5 17:44:3:492 VAC2.dll --> Startup3
+2016-6-5 17:44:3:492 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-5 17:44:3:492 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-5 17:44:3:492 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-5 17:44:3:493 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-5 17:44:3:493 ISteamClient012::CreateSteamPipe
+2016-6-5 17:44:3:493 Steam_CreateSteamPipe
+2016-6-5 17:44:3:493 ISteamClient012::ConnectToGlobalUser
+2016-6-5 17:44:3:493 Steam_ConnectToGlobalUser
+2016-6-5 17:44:3:494 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-5 17:44:3:494 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-5 17:44:3:494 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-5 17:44:3:494 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-5 17:44:3:494 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-5 17:44:3:495 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-5 17:44:3:495 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-5 17:44:3:495 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-5 17:44:3:495 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-5 17:44:3:495 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-5 17:44:3:495 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-5 17:44:3:496 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-5 17:44:3:496 ISteamUtils005::GetAppID
+2016-6-5 17:44:3:633 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-5 17:44:3:633 ISteamUtils007::GetAppID
+2016-6-5 17:44:3:639 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-5 17:44:3:639 ISteamUtils005::GetAppID
+2016-6-5 17:44:3:659 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-5 17:44:3:764 ISteamFriends013::GetClanCount
+2016-6-5 17:44:3:764 ISteamFriends013::GetClanByIndex
+2016-6-5 17:44:7:560 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-5 17:44:7:561 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-5 17:44:7:654 ISteamUtils005::GetAppID
+2016-6-5 17:44:7:720 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-5 17:44:7:720 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-5 17:47:0:360 ISteamUtils005::GetAppID
+2016-6-5 17:47:0:376 ISteamMatchmakingServers002::RequestHistoryServerList --> 252490 --> 3 --> gamedir --> rust
+2016-6-5 17:47:0:385 ISteamMatchmakingServers::GetServerDetails --> 1 --> 1
+2016-6-5 17:47:0:385 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-5 17:47:0:385 ISteamUtils007::GetAppID
+2016-6-5 17:47:0:385 ISteamUtils005::GetAppID
+2016-6-5 17:47:0:386 ISteamUtils005::GetAppID
+2016-6-5 17:47:0:386 ISteamMatchmakingServers002::RequestFriendsServerList --> 252490 --> 3 --> gamedir --> rust
+2016-6-5 17:47:0:386 ISteamMatchmakingServers::GetServerDetails --> 1 --> 1
+2016-6-5 17:47:0:386 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-5 17:47:0:386 ISteamUtils007::GetAppID
+2016-6-5 17:47:0:386 ISteamUtils005::GetAppID
+2016-6-5 17:47:0:386 ISteamUtils005::GetAppID
+2016-6-5 17:47:0:386 ISteamMatchmakingServers002::RequestInternetServerList --> 252490 --> 3 --> gamedir --> rust
+2016-6-5 17:47:0:386 ISteamMatchmakingServers::GetServerDetails --> 1 --> 1
+2016-6-5 17:47:0:387 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-5 17:47:0:387 ISteamUtils007::GetAppID
+2016-6-5 17:47:0:387 ISteamUtils005::GetAppID
+2016-6-5 17:47:5:399 ISteamUser016::CancelAuthTicket
+2016-6-5 17:47:5:399 ISteamClient012::ReleaseUser
+2016-6-5 17:47:5:399 Steam_ReleaseUser
+2016-6-5 17:47:5:399 ISteamClient012::ReleaseSteamPipe
+2016-6-5 17:47:5:400 Steam_BReleaseSteamPipe
+2016-6-5 17:47:5:400 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-5 17:47:5:400 Steamclient.dll Shutdown
+2016-6-5 21:8:52:488 Steamclient.dll Loaded
+2016-6-5 21:8:52:528 VAC2.dll Loaded!
+2016-6-5 21:8:52:529 VAC2.dll --> Startup3
+2016-6-5 21:8:52:529 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-5 21:8:52:529 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-5 21:8:52:529 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-5 21:8:52:529 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-5 21:8:52:530 ISteamClient012::CreateSteamPipe
+2016-6-5 21:8:52:530 Steam_CreateSteamPipe
+2016-6-5 21:8:52:530 ISteamClient012::ConnectToGlobalUser
+2016-6-5 21:8:52:530 Steam_ConnectToGlobalUser
+2016-6-5 21:8:52:530 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-5 21:8:52:530 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-5 21:8:52:530 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-5 21:8:52:531 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-5 21:8:52:531 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-5 21:8:52:531 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-5 21:8:52:531 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-5 21:8:52:531 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-5 21:8:52:531 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-5 21:8:52:531 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-5 21:8:52:531 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-5 21:8:52:532 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-5 21:8:52:532 ISteamUtils005::GetAppID
+2016-6-5 21:8:52:789 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-5 21:8:52:789 ISteamUtils007::GetAppID
+2016-6-5 21:8:52:794 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-5 21:8:52:794 ISteamUtils005::GetAppID
+2016-6-5 21:8:52:835 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-5 21:8:53:140 ISteamFriends013::GetClanCount
+2016-6-5 21:8:53:140 ISteamFriends013::GetClanByIndex
+2016-6-5 21:8:57:778 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-5 21:8:57:779 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> SERVER
+2016-6-5 21:8:58:26 ISteamUtils005::GetAppID
+2016-6-5 21:8:58:105 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-5 21:8:58:105 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-5 21:8:59:418 ISteamUser016::AdvertiseGame
+2016-6-5 21:9:47:807 ISteamUser016::CancelAuthTicket
+2016-6-5 21:9:47:850 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-5 21:9:47:850 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-5 21:9:47:921 ISteamUtils005::GetAppID
+2016-6-5 21:9:47:933 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-5 21:9:47:933 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-5 21:9:49:82 ISteamUser016::AdvertiseGame
+2016-6-5 21:13:36:518 ISteamUser016::CancelAuthTicket
+2016-6-5 21:13:36:548 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-5 21:13:36:548 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-5 21:13:36:619 ISteamUtils005::GetAppID
+2016-6-5 21:13:36:644 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-5 21:13:36:644 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-5 21:13:37:781 ISteamUser016::AdvertiseGame
+2016-6-5 21:22:17:197 ISteamUser016::CancelAuthTicket
+2016-6-5 21:22:17:217 ISteamClient012::ReleaseUser
+2016-6-5 21:22:17:217 Steam_ReleaseUser
+2016-6-5 21:22:17:217 ISteamClient012::ReleaseSteamPipe
+2016-6-5 21:22:17:217 Steam_BReleaseSteamPipe
+2016-6-5 21:22:17:217 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-5 21:22:17:217 Steamclient.dll Shutdown
+2016-6-6 8:43:27:706 Steamclient.dll Loaded
+2016-6-6 8:43:27:732 VAC2.dll Loaded!
+2016-6-6 8:43:27:732 VAC2.dll --> Startup3
+2016-6-6 8:43:27:733 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-6 8:43:27:733 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-6 8:43:27:733 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-6 8:43:27:733 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-6 8:43:27:733 ISteamClient012::CreateSteamPipe
+2016-6-6 8:43:27:733 Steam_CreateSteamPipe
+2016-6-6 8:43:27:734 ISteamClient012::ConnectToGlobalUser
+2016-6-6 8:43:27:734 Steam_ConnectToGlobalUser
+2016-6-6 8:43:27:734 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-6 8:43:27:734 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-6 8:43:27:734 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 8:43:27:734 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-6 8:43:27:734 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-6 8:43:27:734 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-6 8:43:27:735 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-6 8:43:27:735 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-6 8:43:27:735 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-6 8:43:27:735 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-6 8:43:27:735 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-6 8:43:27:735 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-6 8:43:27:735 ISteamUtils005::GetAppID
+2016-6-6 8:43:27:965 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-6 8:43:27:965 ISteamUtils007::GetAppID
+2016-6-6 8:43:27:971 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 8:43:27:971 ISteamUtils005::GetAppID
+2016-6-6 8:43:27:991 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-6 8:43:28:128 ISteamFriends013::GetClanCount
+2016-6-6 8:43:28:128 ISteamFriends013::GetClanByIndex
+2016-6-6 8:43:52:379 ISteamClient012::ReleaseUser
+2016-6-6 8:43:52:379 Steam_ReleaseUser
+2016-6-6 8:43:52:379 ISteamClient012::ReleaseSteamPipe
+2016-6-6 8:43:52:379 Steam_BReleaseSteamPipe
+2016-6-6 8:43:52:380 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-6 8:43:52:380 Steamclient.dll Shutdown
+2016-6-6 8:44:2:661 Steamclient.dll Loaded
+2016-6-6 8:44:2:662 VAC2.dll Loaded!
+2016-6-6 8:44:2:662 VAC2.dll --> Startup3
+2016-6-6 8:44:2:663 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-6 8:44:2:663 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-6 8:44:2:663 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-6 8:44:2:663 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-6 8:44:2:664 ISteamClient012::CreateSteamPipe
+2016-6-6 8:44:2:664 Steam_CreateSteamPipe
+2016-6-6 8:44:2:664 ISteamClient012::ConnectToGlobalUser
+2016-6-6 8:44:2:664 Steam_ConnectToGlobalUser
+2016-6-6 8:44:2:664 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-6 8:44:2:665 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-6 8:44:2:665 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 8:44:2:665 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-6 8:44:2:665 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-6 8:44:2:665 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-6 8:44:2:665 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-6 8:44:2:666 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-6 8:44:2:666 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-6 8:44:2:666 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-6 8:44:2:666 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-6 8:44:2:666 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-6 8:44:2:666 ISteamUtils005::GetAppID
+2016-6-6 8:44:2:881 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-6 8:44:2:881 ISteamUtils007::GetAppID
+2016-6-6 8:44:2:887 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 8:44:2:887 ISteamUtils005::GetAppID
+2016-6-6 8:44:2:907 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-6 8:44:3:42 ISteamFriends013::GetClanCount
+2016-6-6 8:44:3:43 ISteamFriends013::GetClanByIndex
+2016-6-6 8:44:26:178 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 8:44:26:179 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 8:44:26:255 ISteamUtils005::GetAppID
+2016-6-6 8:44:26:256 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 8:44:26:257 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 8:44:47:741 ISteamUser016::CancelAuthTicket
+2016-6-6 8:44:47:742 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 8:44:47:742 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 8:44:47:772 ISteamUtils005::GetAppID
+2016-6-6 8:44:47:834 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 8:44:47:834 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 8:45:53:575 ISteamUser016::CancelAuthTicket
+2016-6-6 8:45:53:575 ISteamClient012::ReleaseUser
+2016-6-6 8:45:53:575 Steam_ReleaseUser
+2016-6-6 8:45:53:575 ISteamClient012::ReleaseSteamPipe
+2016-6-6 8:45:53:575 Steam_BReleaseSteamPipe
+2016-6-6 8:45:53:576 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-6 8:45:53:576 Steamclient.dll Shutdown
+2016-6-6 8:48:42:244 Steamclient.dll Loaded
+2016-6-6 8:48:42:245 VAC2.dll Loaded!
+2016-6-6 8:48:42:246 VAC2.dll --> Startup3
+2016-6-6 8:48:42:246 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-6 8:48:42:246 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-6 8:48:42:246 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-6 8:48:42:247 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-6 8:48:42:247 ISteamClient012::CreateSteamPipe
+2016-6-6 8:48:42:247 Steam_CreateSteamPipe
+2016-6-6 8:48:42:248 ISteamClient012::ConnectToGlobalUser
+2016-6-6 8:48:42:248 Steam_ConnectToGlobalUser
+2016-6-6 8:48:42:248 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-6 8:48:42:248 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-6 8:48:42:248 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 8:48:42:249 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-6 8:48:42:249 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-6 8:48:42:249 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-6 8:48:42:249 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-6 8:48:42:250 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-6 8:48:42:250 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-6 8:48:42:250 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-6 8:48:42:250 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-6 8:48:42:250 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-6 8:48:42:250 ISteamUtils005::GetAppID
+2016-6-6 8:48:42:457 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-6 8:48:42:457 ISteamUtils007::GetAppID
+2016-6-6 8:48:42:463 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 8:48:42:463 ISteamUtils005::GetAppID
+2016-6-6 8:48:42:483 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-6 8:48:42:613 ISteamFriends013::GetClanCount
+2016-6-6 8:48:42:613 ISteamFriends013::GetClanByIndex
+2016-6-6 8:48:48:785 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 8:48:48:786 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 8:48:48:879 ISteamUtils005::GetAppID
+2016-6-6 8:48:48:945 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 8:48:48:945 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 8:56:43:257 ISteamUser016::CancelAuthTicket
+2016-6-6 8:56:43:257 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 8:56:43:258 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 8:56:43:308 ISteamUtils005::GetAppID
+2016-6-6 8:56:43:368 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 8:56:43:368 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 8:57:27:5 ISteamUser016::CancelAuthTicket
+2016-6-6 8:57:27:5 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 8:57:27:6 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 8:57:27:35 ISteamUtils005::GetAppID
+2016-6-6 8:57:27:36 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 8:57:27:36 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 8:59:27:752 ISteamUser016::CancelAuthTicket
+2016-6-6 8:59:27:752 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 8:59:27:753 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 8:59:27:782 ISteamUtils005::GetAppID
+2016-6-6 8:59:27:851 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 8:59:27:852 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 9:0:38:597 ISteamUser016::CancelAuthTicket
+2016-6-6 9:0:38:597 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 9:0:38:597 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 9:0:38:627 ISteamUtils005::GetAppID
+2016-6-6 9:0:38:628 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 9:0:38:628 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 9:0:40:434 ISteamUser016::AdvertiseGame
+2016-6-6 9:2:52:562 ISteamUser016::CancelAuthTicket
+2016-6-6 9:2:52:562 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 9:2:52:562 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 9:2:52:592 ISteamUtils005::GetAppID
+2016-6-6 9:2:52:602 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 9:2:52:602 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 9:2:54:279 ISteamUser016::AdvertiseGame
+2016-6-6 9:3:16:619 ISteamUser016::CancelAuthTicket
+2016-6-6 9:3:16:620 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 9:3:16:620 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 9:3:16:674 ISteamUtils005::GetAppID
+2016-6-6 9:3:16:693 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 9:3:16:694 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 9:3:17:827 ISteamUser016::AdvertiseGame
+2016-6-6 9:4:59:306 ISteamUser016::CancelAuthTicket
+2016-6-6 9:4:59:307 ISteamClient012::ReleaseUser
+2016-6-6 9:4:59:307 Steam_ReleaseUser
+2016-6-6 9:4:59:307 ISteamClient012::ReleaseSteamPipe
+2016-6-6 9:4:59:307 Steam_BReleaseSteamPipe
+2016-6-6 9:4:59:307 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-6 9:4:59:307 Steamclient.dll Shutdown
+2016-6-6 10:43:32:608 Steamclient.dll Loaded
+2016-6-6 10:43:32:609 VAC2.dll Loaded!
+2016-6-6 10:43:32:610 VAC2.dll --> Startup3
+2016-6-6 10:43:32:610 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-6 10:43:32:611 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-6 10:43:32:611 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-6 10:43:32:611 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-6 10:43:32:611 ISteamClient012::CreateSteamPipe
+2016-6-6 10:43:32:612 Steam_CreateSteamPipe
+2016-6-6 10:43:32:612 ISteamClient012::ConnectToGlobalUser
+2016-6-6 10:43:32:612 Steam_ConnectToGlobalUser
+2016-6-6 10:43:32:612 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-6 10:43:32:612 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-6 10:43:32:612 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 10:43:32:613 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-6 10:43:32:613 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-6 10:43:32:613 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-6 10:43:32:613 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-6 10:43:32:613 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-6 10:43:32:613 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-6 10:43:32:614 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-6 10:43:32:614 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-6 10:43:32:614 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-6 10:43:32:614 ISteamUtils005::GetAppID
+2016-6-6 10:43:32:802 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-6 10:43:32:802 ISteamUtils007::GetAppID
+2016-6-6 10:43:32:808 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 10:43:32:808 ISteamUtils005::GetAppID
+2016-6-6 10:43:32:828 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-6 10:43:32:955 ISteamFriends013::GetClanCount
+2016-6-6 10:43:32:955 ISteamFriends013::GetClanByIndex
+2016-6-6 10:43:39:37 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 10:43:39:37 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 10:43:39:112 ISteamUtils005::GetAppID
+2016-6-6 10:43:39:177 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 10:43:39:177 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 10:44:7:901 ISteamUser016::CancelAuthTicket
+2016-6-6 10:44:7:901 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 10:44:7:902 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 10:44:7:931 ISteamUtils005::GetAppID
+2016-6-6 10:44:7:932 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 10:44:7:932 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 10:44:9:731 ISteamUser016::AdvertiseGame
+2016-6-6 10:47:51:149 ISteamUser016::CancelAuthTicket
+2016-6-6 10:47:51:149 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 10:47:51:149 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 10:47:51:179 ISteamUtils005::GetAppID
+2016-6-6 10:47:51:186 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 10:47:51:186 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 10:47:52:888 ISteamUser016::AdvertiseGame
+2016-6-6 10:50:50:539 ISteamUser016::CancelAuthTicket
+2016-6-6 10:50:50:540 ISteamClient012::ReleaseUser
+2016-6-6 10:50:50:540 Steam_ReleaseUser
+2016-6-6 10:50:50:540 ISteamClient012::ReleaseSteamPipe
+2016-6-6 10:50:50:540 Steam_BReleaseSteamPipe
+2016-6-6 10:50:50:540 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-6 10:50:50:540 Steamclient.dll Shutdown
+2016-6-6 17:58:7:822 Steamclient.dll Loaded
+2016-6-6 17:58:7:855 VAC2.dll Loaded!
+2016-6-6 17:58:7:855 VAC2.dll --> Startup3
+2016-6-6 17:58:7:856 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-6 17:58:7:856 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-6 17:58:7:856 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-6 17:58:7:856 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-6 17:58:7:856 ISteamClient012::CreateSteamPipe
+2016-6-6 17:58:7:856 Steam_CreateSteamPipe
+2016-6-6 17:58:7:857 ISteamClient012::ConnectToGlobalUser
+2016-6-6 17:58:7:857 Steam_ConnectToGlobalUser
+2016-6-6 17:58:7:857 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-6 17:58:7:857 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-6 17:58:7:857 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 17:58:7:857 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-6 17:58:7:857 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-6 17:58:7:858 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-6 17:58:7:858 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-6 17:58:7:858 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-6 17:58:7:858 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-6 17:58:7:858 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-6 17:58:7:858 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-6 17:58:7:858 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-6 17:58:7:858 ISteamUtils005::GetAppID
+2016-6-6 17:58:8:111 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-6 17:58:8:111 ISteamUtils007::GetAppID
+2016-6-6 17:58:8:117 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 17:58:8:117 ISteamUtils005::GetAppID
+2016-6-6 17:58:8:137 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-6 17:58:8:307 ISteamFriends013::GetClanCount
+2016-6-6 17:58:8:308 ISteamFriends013::GetClanByIndex
+2016-6-6 17:58:33:627 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 17:58:33:627 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 17:58:33:641 ISteamUtils005::GetAppID
+2016-6-6 17:58:33:642 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 17:58:33:642 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 17:59:25:714 ISteamUser016::CancelAuthTicket
+2016-6-6 17:59:25:714 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 17:59:25:714 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 17:59:25:717 ISteamUtils005::GetAppID
+2016-6-6 17:59:25:808 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 17:59:25:808 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 18:1:17:763 ISteamUser016::CancelAuthTicket
+2016-6-6 18:1:17:763 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 18:1:17:763 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 18:1:17:766 ISteamUtils005::GetAppID
+2016-6-6 18:1:17:876 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 18:1:17:876 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 18:4:43:21 ISteamUser016::CancelAuthTicket
+2016-6-6 18:4:43:21 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 18:4:43:22 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 18:4:43:25 ISteamUtils005::GetAppID
+2016-6-6 18:4:43:156 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 18:4:43:156 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 18:4:44:817 ISteamUser016::CancelAuthTicket
+2016-6-6 18:4:44:817 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 18:4:44:817 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 18:4:44:820 ISteamUtils005::GetAppID
+2016-6-6 18:4:44:976 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 18:4:44:976 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 18:10:40:891 ISteamUser016::CancelAuthTicket
+2016-6-6 18:10:40:891 ISteamClient012::ReleaseUser
+2016-6-6 18:10:40:891 Steam_ReleaseUser
+2016-6-6 18:10:40:891 ISteamClient012::ReleaseSteamPipe
+2016-6-6 18:10:40:892 Steam_BReleaseSteamPipe
+2016-6-6 18:10:40:892 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-6 18:10:40:892 Steamclient.dll Shutdown
+2016-6-6 18:11:11:338 Steamclient.dll Loaded
+2016-6-6 18:11:11:340 VAC2.dll Loaded!
+2016-6-6 18:11:11:341 VAC2.dll --> Startup3
+2016-6-6 18:11:11:341 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-6 18:11:11:341 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-6 18:11:11:342 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-6 18:11:11:342 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-6 18:11:11:342 ISteamClient012::CreateSteamPipe
+2016-6-6 18:11:11:342 Steam_CreateSteamPipe
+2016-6-6 18:11:11:343 ISteamClient012::ConnectToGlobalUser
+2016-6-6 18:11:11:343 Steam_ConnectToGlobalUser
+2016-6-6 18:11:11:343 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-6 18:11:11:343 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-6 18:11:11:343 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 18:11:11:343 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-6 18:11:11:344 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-6 18:11:11:344 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-6 18:11:11:344 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-6 18:11:11:344 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-6 18:11:11:344 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-6 18:11:11:344 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-6 18:11:11:345 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-6 18:11:11:345 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-6 18:11:11:345 ISteamUtils005::GetAppID
+2016-6-6 18:11:11:481 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-6 18:11:11:481 ISteamUtils007::GetAppID
+2016-6-6 18:11:11:486 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 18:11:11:486 ISteamUtils005::GetAppID
+2016-6-6 18:11:11:506 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-6 18:11:11:577 ISteamFriends013::GetClanCount
+2016-6-6 18:11:11:577 ISteamFriends013::GetClanByIndex
+2016-6-6 18:11:17:296 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 18:11:17:297 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 18:11:17:310 ISteamUtils005::GetAppID
+2016-6-6 18:11:17:380 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 18:11:17:380 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 18:11:17:536 ISteamUser016::AdvertiseGame
+2016-6-6 19:13:44:456 ISteamUser016::CancelAuthTicket
+2016-6-6 19:13:44:456 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 19:13:44:457 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 19:13:44:460 ISteamUtils005::GetAppID
+2016-6-6 19:13:44:477 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 19:13:44:477 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 19:13:44:651 ISteamUser016::AdvertiseGame
+2016-6-6 19:20:13:109 ISteamUser016::CancelAuthTicket
+2016-6-6 19:20:13:109 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 19:20:13:110 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 19:20:13:112 ISteamUtils005::GetAppID
+2016-6-6 19:20:13:131 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 19:20:13:132 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 19:20:13:338 ISteamUser016::AdvertiseGame
+2016-6-6 19:21:36:305 ISteamUser016::CancelAuthTicket
+2016-6-6 19:21:36:305 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 19:21:36:305 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 19:21:36:309 ISteamUtils005::GetAppID
+2016-6-6 19:21:36:326 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 19:21:36:326 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 19:21:36:465 ISteamUser016::AdvertiseGame
+2016-6-6 19:27:39:128 ISteamUser016::CancelAuthTicket
+2016-6-6 19:27:39:128 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 19:27:39:128 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 19:27:39:131 ISteamUtils005::GetAppID
+2016-6-6 19:27:39:148 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 19:27:39:148 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 19:27:39:336 ISteamUser016::AdvertiseGame
+2016-6-6 19:29:41:648 ISteamUser016::CancelAuthTicket
+2016-6-6 19:29:41:648 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 19:29:41:648 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 19:29:41:652 ISteamUtils005::GetAppID
+2016-6-6 19:29:41:668 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 19:29:41:668 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 19:29:41:823 ISteamUser016::AdvertiseGame
+2016-6-6 19:47:27:211 ISteamUser016::CancelAuthTicket
+2016-6-6 19:47:27:211 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 19:47:27:212 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 19:47:27:215 ISteamUtils005::GetAppID
+2016-6-6 19:47:27:217 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 19:47:27:217 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 19:47:39:799 ISteamUser016::CancelAuthTicket
+2016-6-6 19:47:39:800 ISteamClient012::ReleaseUser
+2016-6-6 19:47:39:800 Steam_ReleaseUser
+2016-6-6 19:47:39:800 ISteamClient012::ReleaseSteamPipe
+2016-6-6 19:47:39:800 Steam_BReleaseSteamPipe
+2016-6-6 19:47:39:800 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-6 19:47:39:800 Steamclient.dll Shutdown
+2016-6-6 19:48:5:104 Steamclient.dll Loaded
+2016-6-6 19:48:5:105 VAC2.dll Loaded!
+2016-6-6 19:48:5:106 VAC2.dll --> Startup3
+2016-6-6 19:48:5:106 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-6 19:48:5:107 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-6 19:48:5:107 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-6 19:48:5:107 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-6 19:48:5:107 ISteamClient012::CreateSteamPipe
+2016-6-6 19:48:5:107 Steam_CreateSteamPipe
+2016-6-6 19:48:5:108 ISteamClient012::ConnectToGlobalUser
+2016-6-6 19:48:5:108 Steam_ConnectToGlobalUser
+2016-6-6 19:48:5:108 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-6 19:48:5:108 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-6 19:48:5:109 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 19:48:5:109 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-6 19:48:5:109 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-6 19:48:5:109 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-6 19:48:5:109 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-6 19:48:5:110 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-6 19:48:5:110 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-6 19:48:5:110 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-6 19:48:5:110 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-6 19:48:5:110 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-6 19:48:5:110 ISteamUtils005::GetAppID
+2016-6-6 19:48:5:248 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-6 19:48:5:248 ISteamUtils007::GetAppID
+2016-6-6 19:48:5:253 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 19:48:5:253 ISteamUtils005::GetAppID
+2016-6-6 19:48:5:273 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-6 19:48:5:344 ISteamFriends013::GetClanCount
+2016-6-6 19:48:5:344 ISteamFriends013::GetClanByIndex
+2016-6-6 19:48:10:567 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 19:48:10:567 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 19:48:10:580 ISteamUtils005::GetAppID
+2016-6-6 19:48:10:653 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 19:48:10:653 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 19:48:14:577 ISteamUser016::CancelAuthTicket
+2016-6-6 19:48:14:577 ISteamClient012::ReleaseUser
+2016-6-6 19:48:14:577 Steam_ReleaseUser
+2016-6-6 19:48:14:577 ISteamClient012::ReleaseSteamPipe
+2016-6-6 19:48:14:577 Steam_BReleaseSteamPipe
+2016-6-6 19:48:14:578 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-6 19:48:14:578 Steamclient.dll Shutdown
+2016-6-6 19:48:28:259 Steamclient.dll Loaded
+2016-6-6 19:48:28:263 VAC2.dll Loaded!
+2016-6-6 19:48:28:264 VAC2.dll --> Startup3
+2016-6-6 19:48:28:265 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-6 19:48:28:265 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-6 19:48:28:265 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-6 19:48:28:266 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-6 19:48:28:266 ISteamClient012::CreateSteamPipe
+2016-6-6 19:48:28:266 Steam_CreateSteamPipe
+2016-6-6 19:48:28:266 ISteamClient012::ConnectToGlobalUser
+2016-6-6 19:48:28:266 Steam_ConnectToGlobalUser
+2016-6-6 19:48:28:267 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-6 19:48:28:267 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-6 19:48:28:267 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 19:48:28:267 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-6 19:48:28:268 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-6 19:48:28:268 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-6 19:48:28:268 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-6 19:48:28:268 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-6 19:48:28:269 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-6 19:48:28:269 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-6 19:48:28:269 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-6 19:48:28:269 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-6 19:48:28:269 ISteamUtils005::GetAppID
+2016-6-6 19:48:28:410 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-6 19:48:28:410 ISteamUtils007::GetAppID
+2016-6-6 19:48:28:416 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-6 19:48:28:416 ISteamUtils005::GetAppID
+2016-6-6 19:48:28:436 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-6 19:48:28:509 ISteamFriends013::GetClanCount
+2016-6-6 19:48:28:510 ISteamFriends013::GetClanByIndex
+2016-6-6 19:48:32:490 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-6 19:48:32:490 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-6 19:48:32:505 ISteamUtils005::GetAppID
+2016-6-6 19:48:32:574 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-6 19:48:32:574 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-6 19:48:32:725 ISteamUser016::AdvertiseGame
+2016-6-6 19:49:27:516 ISteamUser016::CancelAuthTicket
+2016-6-6 19:49:27:516 ISteamClient012::ReleaseUser
+2016-6-6 19:49:27:516 Steam_ReleaseUser
+2016-6-6 19:49:27:516 ISteamClient012::ReleaseSteamPipe
+2016-6-6 19:49:27:516 Steam_BReleaseSteamPipe
+2016-6-6 19:49:27:516 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-6 19:49:27:517 Steamclient.dll Shutdown
+2016-6-7 13:41:37:934 Steamclient.dll Loaded
+2016-6-7 13:41:37:956 VAC2.dll Loaded!
+2016-6-7 13:41:37:956 VAC2.dll --> Startup3
+2016-6-7 13:41:37:957 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-7 13:41:37:957 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-7 13:41:37:957 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-7 13:41:37:957 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-7 13:41:37:957 ISteamClient012::CreateSteamPipe
+2016-6-7 13:41:37:957 Steam_CreateSteamPipe
+2016-6-7 13:41:37:958 ISteamClient012::ConnectToGlobalUser
+2016-6-7 13:41:37:958 Steam_ConnectToGlobalUser
+2016-6-7 13:41:37:958 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-7 13:41:37:958 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-7 13:41:37:958 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-7 13:41:37:958 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-7 13:41:37:958 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-7 13:41:37:958 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-7 13:41:37:958 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-7 13:41:37:959 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-7 13:41:37:959 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-7 13:41:37:959 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-7 13:41:37:959 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-7 13:41:37:959 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-7 13:41:37:959 ISteamUtils005::GetAppID
+2016-6-7 13:41:38:178 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-7 13:41:38:178 ISteamUtils007::GetAppID
+2016-6-7 13:41:38:184 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-7 13:41:38:184 ISteamUtils005::GetAppID
+2016-6-7 13:41:38:204 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-7 13:41:38:270 ISteamFriends013::GetClanCount
+2016-6-7 13:41:38:270 ISteamFriends013::GetClanByIndex
+2016-6-7 13:41:45:372 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-7 13:41:45:372 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-7 13:41:45:385 ISteamUtils005::GetAppID
+2016-6-7 13:41:45:459 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-7 13:41:45:459 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-7 13:41:48:386 ISteamUser016::CancelAuthTicket
+2016-6-7 13:41:48:386 ISteamClient012::ReleaseUser
+2016-6-7 13:41:48:386 Steam_ReleaseUser
+2016-6-7 13:41:48:386 ISteamClient012::ReleaseSteamPipe
+2016-6-7 13:41:48:387 Steam_BReleaseSteamPipe
+2016-6-7 13:41:48:387 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-7 13:41:48:387 Steamclient.dll Shutdown
+2016-6-7 13:42:0:949 Steamclient.dll Loaded
+2016-6-7 13:42:0:950 VAC2.dll Loaded!
+2016-6-7 13:42:0:950 VAC2.dll --> Startup3
+2016-6-7 13:42:0:951 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-7 13:42:0:951 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-7 13:42:0:951 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-7 13:42:0:951 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-7 13:42:0:951 ISteamClient012::CreateSteamPipe
+2016-6-7 13:42:0:952 Steam_CreateSteamPipe
+2016-6-7 13:42:0:952 ISteamClient012::ConnectToGlobalUser
+2016-6-7 13:42:0:952 Steam_ConnectToGlobalUser
+2016-6-7 13:42:0:952 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-7 13:42:0:952 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-7 13:42:0:952 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-7 13:42:0:952 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-7 13:42:0:952 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-7 13:42:0:953 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-7 13:42:0:953 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-7 13:42:0:953 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-7 13:42:0:953 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-7 13:42:0:953 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-7 13:42:0:953 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-7 13:42:0:954 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-7 13:42:0:954 ISteamUtils005::GetAppID
+2016-6-7 13:42:1:86 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-7 13:42:1:86 ISteamUtils007::GetAppID
+2016-6-7 13:42:1:92 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-7 13:42:1:92 ISteamUtils005::GetAppID
+2016-6-7 13:42:1:112 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-7 13:42:1:188 ISteamFriends013::GetClanCount
+2016-6-7 13:42:1:188 ISteamFriends013::GetClanByIndex
+2016-6-7 13:42:5:530 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-7 13:42:5:531 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-7 13:42:5:543 ISteamUtils005::GetAppID
+2016-6-7 13:42:5:625 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-7 13:42:5:626 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-7 13:42:5:862 ISteamUser016::AdvertiseGame
+2016-6-7 14:9:47:926 ISteamUser016::CancelAuthTicket
+2016-6-7 14:9:47:926 ISteamClient012::ReleaseUser
+2016-6-7 14:9:47:926 Steam_ReleaseUser
+2016-6-7 14:9:47:927 ISteamClient012::ReleaseSteamPipe
+2016-6-7 14:9:47:927 Steam_BReleaseSteamPipe
+2016-6-7 14:9:47:927 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-7 14:9:47:927 Steamclient.dll Shutdown
+2016-6-7 17:57:52:983 Steamclient.dll Loaded
+2016-6-7 17:57:53:28 VAC2.dll Loaded!
+2016-6-7 17:57:53:29 VAC2.dll --> Startup3
+2016-6-7 17:57:53:29 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-6-7 17:57:53:29 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-6-7 17:57:53:29 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-6-7 17:57:53:29 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-6-7 17:57:53:29 ISteamClient012::CreateSteamPipe
+2016-6-7 17:57:53:29 Steam_CreateSteamPipe
+2016-6-7 17:57:53:30 ISteamClient012::ConnectToGlobalUser
+2016-6-7 17:57:53:30 Steam_ConnectToGlobalUser
+2016-6-7 17:57:53:30 ISteamClient012::GetISteamUser --> SteamUser016
+2016-6-7 17:57:53:30 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-6-7 17:57:53:30 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-7 17:57:53:30 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-6-7 17:57:53:30 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-6-7 17:57:53:30 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-6-7 17:57:53:31 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-6-7 17:57:53:31 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-6-7 17:57:53:31 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-6-7 17:57:53:31 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-6-7 17:57:53:31 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-6-7 17:57:53:31 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-6-7 17:57:53:31 ISteamUtils005::GetAppID
+2016-6-7 17:57:53:381 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-6-7 17:57:53:381 ISteamUtils007::GetAppID
+2016-6-7 17:57:53:387 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-6-7 17:57:53:387 ISteamUtils005::GetAppID
+2016-6-7 17:57:53:407 ISteamApps005::IsSubscribedApp --> 252490
+2016-6-7 17:57:53:605 ISteamFriends013::GetClanCount
+2016-6-7 17:57:53:605 ISteamFriends013::GetClanByIndex
+2016-6-7 17:59:23:224 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-6-7 17:59:23:225 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961239983 --> STEAM_0:1:487127 --> foguinho
+2016-6-7 17:59:23:238 ISteamUtils005::GetAppID
+2016-6-7 17:59:23:367 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-6-7 17:59:23:368 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-6-7 17:59:23:588 ISteamUser016::AdvertiseGame
+2016-6-7 18:19:26:465 ISteamUser016::CancelAuthTicket
+2016-6-7 18:19:26:465 ISteamClient012::ReleaseUser
+2016-6-7 18:19:26:465 Steam_ReleaseUser
+2016-6-7 18:19:26:465 ISteamClient012::ReleaseSteamPipe
+2016-6-7 18:19:26:465 Steam_BReleaseSteamPipe
+2016-6-7 18:19:26:466 ISteamClient012::BShutdownIfAllPipesClosed
+2016-6-7 18:19:26:466 Steamclient.dll Shutdown
+2016-7-14 1:38:49:982 Steamclient.dll Loaded
+2016-7-14 1:38:49:985 VAC2.dll Loaded!
+2016-7-14 1:38:50:84 VAC2.dll --> Startup3
+2016-7-14 1:38:50:84 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-7-14 1:38:50:84 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-7-14 1:38:50:84 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-7-14 1:38:50:85 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-7-14 1:38:50:95 ISteamClient012::CreateSteamPipe
+2016-7-14 1:38:50:95 Steam_CreateSteamPipe
+2016-7-14 1:38:50:95 ISteamClient012::ConnectToGlobalUser
+2016-7-14 1:38:50:95 Steam_ConnectToGlobalUser
+2016-7-14 1:38:50:95 ISteamClient012::GetISteamUser --> SteamUser016
+2016-7-14 1:38:50:95 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-7-14 1:38:50:95 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-7-14 1:38:50:95 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-7-14 1:38:50:95 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-7-14 1:38:50:96 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-7-14 1:38:50:96 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-7-14 1:38:50:96 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-7-14 1:38:50:96 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-7-14 1:38:50:96 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-7-14 1:38:50:96 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-7-14 1:38:50:96 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-7-14 1:38:50:96 ISteamUtils005::GetAppID
+2016-7-14 1:38:50:421 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-7-14 1:38:50:421 ISteamUtils007::GetAppID
+2016-7-14 1:38:50:426 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-7-14 1:38:50:426 ISteamUtils005::GetAppID
+2016-7-14 1:38:50:446 ISteamApps005::IsSubscribedApp --> 252490
+2016-7-14 1:38:50:610 ISteamFriends013::GetClanCount
+2016-7-14 1:38:50:610 ISteamFriends013::GetClanByIndex
+2016-7-14 1:39:25:912 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-7-14 1:39:25:912 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197964533986 --> STEAM_0:0:2134129 --> DeadAlive
+2016-7-14 1:39:25:952 ISteamUtils005::GetAppID
+2016-7-14 1:39:25:954 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-7-14 1:39:25:954 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-7-14 1:39:27:611 ISteamUser016::AdvertiseGame
+2016-7-14 1:41:35:498 ISteamUser016::CancelAuthTicket
+2016-7-14 1:41:35:514 ISteamClient012::ReleaseUser
+2016-7-14 1:41:35:514 Steam_ReleaseUser
+2016-7-14 1:41:35:514 ISteamClient012::ReleaseSteamPipe
+2016-7-14 1:41:35:514 Steam_BReleaseSteamPipe
+2016-7-14 1:41:35:514 ISteamClient012::BShutdownIfAllPipesClosed
+2016-7-14 1:41:35:514 Steamclient.dll Shutdown
+2016-7-14 1:43:8:63 Steamclient.dll Loaded
+2016-7-14 1:43:8:65 VAC2.dll Loaded!
+2016-7-14 1:43:8:67 VAC2.dll --> Startup3
+2016-7-14 1:43:8:68 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-7-14 1:43:8:68 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-7-14 1:43:8:68 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-7-14 1:43:8:69 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-7-14 1:43:8:69 ISteamClient012::CreateSteamPipe
+2016-7-14 1:43:8:69 Steam_CreateSteamPipe
+2016-7-14 1:43:8:69 ISteamClient012::ConnectToGlobalUser
+2016-7-14 1:43:8:69 Steam_ConnectToGlobalUser
+2016-7-14 1:43:8:69 ISteamClient012::GetISteamUser --> SteamUser016
+2016-7-14 1:43:8:69 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-7-14 1:43:8:70 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-7-14 1:43:8:70 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-7-14 1:43:8:70 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-7-14 1:43:8:70 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-7-14 1:43:8:70 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-7-14 1:43:8:70 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-7-14 1:43:8:70 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-7-14 1:43:8:71 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-7-14 1:43:8:71 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-7-14 1:43:8:71 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-7-14 1:43:8:71 ISteamUtils005::GetAppID
+2016-7-14 1:43:8:341 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-7-14 1:43:8:341 ISteamUtils007::GetAppID
+2016-7-14 1:43:8:347 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-7-14 1:43:8:347 ISteamUtils005::GetAppID
+2016-7-14 1:43:8:367 ISteamApps005::IsSubscribedApp --> 252490
+2016-7-14 1:43:29:703 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-7-14 1:43:29:704 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197964533986 --> STEAM_0:0:2134129 --> DeadAlive
+2016-7-14 1:43:29:731 ISteamUtils005::GetAppID
+2016-7-14 1:43:29:819 ISteamFriends013::GetClanCount
+2016-7-14 1:43:29:820 ISteamFriends013::GetClanByIndex
+2016-7-14 1:43:29:821 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-7-14 1:43:29:822 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-7-14 1:43:32:92 ISteamUser016::AdvertiseGame
+2016-7-14 1:44:14:569 ISteamUser016::CancelAuthTicket
+2016-7-14 1:44:14:570 ISteamClient012::ReleaseUser
+2016-7-14 1:44:14:570 Steam_ReleaseUser
+2016-7-14 1:44:14:570 ISteamClient012::ReleaseSteamPipe
+2016-7-14 1:44:14:570 Steam_BReleaseSteamPipe
+2016-7-14 1:44:14:570 ISteamClient012::BShutdownIfAllPipesClosed
+2016-7-14 1:44:14:570 Steamclient.dll Shutdown
+2016-7-14 1:44:34:167 Steamclient.dll Loaded
+2016-7-14 1:44:34:169 VAC2.dll Loaded!
+2016-7-14 1:44:34:170 VAC2.dll --> Startup3
+2016-7-14 1:44:34:171 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2016-7-14 1:44:34:171 VAC2.dll --> IMAGE_NT_SIGNATURE
+2016-7-14 1:44:34:171 VAC2.dll --> lpSectionHeader->Name --> .text
+2016-7-14 1:44:34:171 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2016-7-14 1:44:34:171 ISteamClient012::CreateSteamPipe
+2016-7-14 1:44:34:171 Steam_CreateSteamPipe
+2016-7-14 1:44:34:171 ISteamClient012::ConnectToGlobalUser
+2016-7-14 1:44:34:172 Steam_ConnectToGlobalUser
+2016-7-14 1:44:34:172 ISteamClient012::GetISteamUser --> SteamUser016
+2016-7-14 1:44:34:172 ISteamClient012::GetISteamFriends --> SteamFriends013
+2016-7-14 1:44:34:172 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-7-14 1:44:34:172 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2016-7-14 1:44:34:177 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2016-7-14 1:44:34:177 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2016-7-14 1:44:34:177 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2016-7-14 1:44:34:177 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2016-7-14 1:44:34:177 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2016-7-14 1:44:34:177 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2016-7-14 1:44:34:177 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2016-7-14 1:44:34:177 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2016-7-14 1:44:34:177 ISteamUtils005::GetAppID
+2016-7-14 1:44:34:400 ISteamClient013::GetISteamUtils --> SteamUtils007
+2016-7-14 1:44:34:401 ISteamUtils007::GetAppID
+2016-7-14 1:44:34:407 ISteamClient012::GetISteamUtils --> SteamUtils005
+2016-7-14 1:44:34:407 ISteamUtils005::GetAppID
+2016-7-14 1:44:34:427 ISteamApps005::IsSubscribedApp --> 252490
+2016-7-14 1:44:55:742 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2016-7-14 1:44:55:743 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197964533986 --> STEAM_0:0:2134129 --> DeadAlive
+2016-7-14 1:44:55:767 ISteamUtils005::GetAppID
+2016-7-14 1:44:55:842 ISteamFriends013::GetClanCount
+2016-7-14 1:44:55:843 ISteamFriends013::GetClanByIndex
+2016-7-14 1:44:55:845 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2016-7-14 1:44:55:845 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2016-7-14 1:44:58:126 ISteamUser016::AdvertiseGame
+2020-3-11 0:41:41:338 Steamclient.dll Loaded
+2020-3-11 0:41:41:346 VAC2.dll Loaded!
+2020-3-11 0:41:41:355 VAC2.dll --> Startup3
+2020-3-11 0:41:41:362 VAC2.dll --> IMAGE_DOS_SIGNATURE
+2020-3-11 0:41:41:369 VAC2.dll --> IMAGE_NT_SIGNATURE
+2020-3-11 0:41:41:375 VAC2.dll --> lpSectionHeader->Name --> .text
+2020-3-11 0:41:41:381 VAC2.dll --> g_dwVACCodeBase && g_dwVACCodeSize != 0
+2020-3-11 0:41:41:388 ISteamClient012::CreateSteamPipe
+2020-3-11 0:41:41:394 Steam_CreateSteamPipe
+2020-3-11 0:41:41:400 ISteamClient012::ConnectToGlobalUser
+2020-3-11 0:41:41:407 Steam_ConnectToGlobalUser
+2020-3-11 0:41:41:413 ISteamClient012::GetISteamUser --> SteamUser016
+2020-3-11 0:41:41:419 ISteamClient012::GetISteamFriends --> SteamFriends013
+2020-3-11 0:41:41:426 ISteamClient012::GetISteamUtils --> SteamUtils005
+2020-3-11 0:41:41:431 ISteamClient012::GetISteamMatchmaking --> SteamMatchMaking009
+2020-3-11 0:41:41:438 ISteamClient012::GetISteamMatchmakingServers --> SteamMatchMakingServers002
+2020-3-11 0:41:41:444 ISteamClient012::GetISteamUserStats --> STEAMUSERSTATS_INTERFACE_VERSION011
+2020-3-11 0:41:41:450 ISteamClient012::GetISteamApps --> STEAMAPPS_INTERFACE_VERSION005
+2020-3-11 0:41:41:456 ISteamClient012::GetISteamNetworking --> SteamNetworking005
+2020-3-11 0:41:41:462 ISteamClient012::GetISteamRemoteStorage --> STEAMREMOTESTORAGE_INTERFACE_VERSION010
+2020-3-11 0:41:41:468 ISteamClient012::GetISteamScreenshots --> STEAMSCREENSHOTS_INTERFACE_VERSION002
+2020-3-11 0:41:41:474 ISteamClient012::GetISteamHTTP --> STEAMHTTP_INTERFACE_VERSION002
+2020-3-11 0:41:41:480 ISteamClient012::GetISteamUnifiedMessages --> STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+2020-3-11 0:41:41:486 ISteamUtils005::GetAppID
+2020-3-11 0:41:41:802 ISteamClient013::GetISteamUtils --> SteamUtils007
+2020-3-11 0:41:41:808 ISteamUtils007::GetAppID
+2020-3-11 0:41:41:821 ISteamClient012::GetISteamUtils --> SteamUtils005
+2020-3-11 0:41:41:827 ISteamUtils005::GetAppID
+2020-3-11 0:41:41:857 ISteamApps005::IsSubscribedApp --> 252490
+2020-3-11 0:41:42:51 ISteamGameServer, ISteamUser::GetAuthSessionTicket
+2020-3-11 0:41:42:58 ISteamGameServer, ISteamUser::GetAuthSessionTicket --> LumaEmu Ticket --> 76561197961392130 --> STEAM_0:0:563201 --> RustLegacy
+2020-3-11 0:41:42:139 ISteamFriends013::GetClanCount
+2020-3-11 0:41:42:146 ISteamFriends013::GetClanByIndex
+2020-3-11 0:41:42:153 Steam_BGetCallback --> 1 --> 8 --> 1 --> 163
+2020-3-11 0:41:42:160 Steam_FreeLastCallback --> Removing Callback: 163 --> Pipe --> 1
+2020-3-11 0:41:51:913 ISteamUtils005::GetAppID
+2020-3-11 0:41:51:920 ISteamMatchmakingServers002::RequestHistoryServerList --> 252490 --> 3 --> gamedir --> rust
+2020-3-11 0:41:51:927 ISteamMatchmakingServers::GetServerDetails --> 1 --> 1
+2020-3-11 0:41:51:933 ISteamClient013::GetISteamUtils --> SteamUtils007
+2020-3-11 0:41:51:940 ISteamUtils007::GetAppID
+2020-3-11 0:41:51:947 ISteamUtils005::GetAppID
+2020-3-11 0:41:51:953 ISteamUtils005::GetAppID
+2020-3-11 0:41:51:960 ISteamMatchmakingServers002::RequestFriendsServerList --> 252490 --> 3 --> gamedir --> rust
+2020-3-11 0:41:51:967 ISteamMatchmakingServers::GetServerDetails --> 1 --> 1
+2020-3-11 0:41:51:974 ISteamClient013::GetISteamUtils --> SteamUtils007
+2020-3-11 0:41:51:980 ISteamUtils007::GetAppID
+2020-3-11 0:41:51:986 ISteamUtils005::GetAppID
+2020-3-11 0:41:51:993 ISteamUtils005::GetAppID
+2020-3-11 0:41:51:999 ISteamMatchmakingServers002::RequestInternetServerList --> 252490 --> 3 --> gamedir --> rust
+2020-3-11 0:41:52:6 ISteamMatchmakingServers::GetServerDetails --> 1 --> 1
+2020-3-11 0:41:52:12 ISteamClient013::GetISteamUtils --> SteamUtils007
+2020-3-11 0:41:52:18 ISteamUtils007::GetAppID
+2020-3-11 0:41:52:24 ISteamUtils005::GetAppID
+2020-3-11 0:42:19:200 ISteamUser016::CancelAuthTicket
+2020-3-11 0:42:19:207 ISteamClient012::ReleaseUser
+2020-3-11 0:42:19:213 Steam_ReleaseUser
+2020-3-11 0:42:19:219 ISteamClient012::ReleaseSteamPipe
+2020-3-11 0:42:19:225 Steam_BReleaseSteamPipe
+2020-3-11 0:42:19:232 ISteamClient012::BShutdownIfAllPipesClosed
+2020-3-11 0:42:19:238 Steamclient.dll Shutdown
