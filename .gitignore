@@ -1,2 +1,5 @@
 /cfg/*
 /Bundles/*
+LumaEmu.log
+LumaEmu_Steamclient.log
+rust_Data/output_log.txt
